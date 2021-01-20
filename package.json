@@ -38,7 +38,7 @@
     "eslint-plugin-standard": ">=4.0.0",
     "eslint-plugin-vue": "^5.2.2",
     "firebase": "^6.1.1",
-    "gsap": "^2.1.2",
+    "gsap": "^3.6.0",
     "node-sass": "^4.11.0",
     "nodemon": "^1.18.9",
     "prettier": "^1.16.4",
